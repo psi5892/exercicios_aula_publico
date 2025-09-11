@@ -1,0 +1,5 @@
+/.quarto/
+/.vscode/
+.ipynb_checkpoints/
+/_site/
+*~
